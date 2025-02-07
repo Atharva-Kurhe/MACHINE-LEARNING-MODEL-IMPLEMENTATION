@@ -22,25 +22,25 @@ The model is trained using pandas for data processing, scikit-learn for machine 
 
 * *Tools and Libraries Used* : 
 
-1]Python: The primary programming language for the project.
+1] Python: The primary programming language for the project.
 
-2]pandas: For data manipulation and analysis.
+2] pandas: For data manipulation and analysis.
 
-3]scikit-learn: For implementing machine learning models.
+3] scikit-learn: For implementing machine learning models.
 
-4]joblib: For saving and loading trained models.
+4] joblib: For saving and loading trained models.
 
-5]numpy: Used for numerical operations and array manipulations.
+5] numpy: Used for numerical operations and array manipulations.
 
-6]matplotlib & seaborn: For data visualization and exploratory data analysis.
+6] matplotlib & seaborn: For data visualization and exploratory data analysis.
 
 * *Editor Platform Used* :
 
-1]VS Code: Used for editing and running the code.
+1] VS Code: Used for editing and running the code.
 
-2]Jupyter Notebook: Useful for exploratory data analysis and debugging.
+2] Jupyter Notebook: Useful for exploratory data analysis and debugging.
 
-3]IDLE: Python's built-in IDE, which comes bundled with the standard Python distribution.
+3] IDLE: Python's built-in IDE, which comes bundled with the standard Python distribution.
 
 * *Dataset Information* :
 
@@ -48,29 +48,29 @@ The dataset used is spam_email_dataset.csv, which contains labeled email data.
 
 Columns:
 
-1]text: Contains the email content.
+1] text: Contains the email content.
 
-2]label: Categorical target variable (ham for non-spam, spam for spam emails).
+2] label: Categorical target variable (ham for non-spam, spam for spam emails).
 
 The dataset is preprocessed to remove noise and irrelevant characters before feature extraction.
 
 * *Model Files* :
 
-1]spam_classifier_model.pkl - Trained Naïve Bayes model.
+1] spam_classifier_model.pkl - Trained Naïve Bayes model.
 
-2]tfidf_vectorizer.pkl - Trained TF-IDF vectorizer for text transformation.
+2] tfidf_vectorizer.pkl - Trained TF-IDF vectorizer for text transformation.
 
 * Applicability of the Task* :
 
-1]Email filtering systems: Gmail, Outlook, Yahoo Mail.
+1] Email filtering systems: Gmail, Outlook, Yahoo Mail.
 
-2]Cybersecurity applications: Detecting phishing and scam emails.
+2] Cybersecurity applications: Detecting phishing and scam emails.
 
-3]Business communication tools: Preventing spam in corporate email systems.
+3] Business communication tools: Preventing spam in corporate email systems.
 
-4]Educational purposes: Learning about text classification and NLP techniques.
+4] Educational purposes: Learning about text classification and NLP techniques.
 
-5]Social media monitoring: Filtering spam messages and bot-generated content.
+5] Social media monitoring: Filtering spam messages and bot-generated content.
 
 #OUTPUT :
 
