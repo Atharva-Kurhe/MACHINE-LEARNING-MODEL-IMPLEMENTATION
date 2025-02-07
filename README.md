@@ -12,6 +12,10 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+* *Overview of the Task* :
+
+The Spam Email Detection System is a task that utilizes Natural Language Processing (NLP) and Machine Learning (ML) techniques to classify emails as either spam or legitimate (ham). By implementing the Naive Bayes algorithm, the system analyzes email content to identify patterns indicative of spam, thereby enhancing email management and security. This task involves preprocessing email text data, extracting relevant features, and training the Naive Bayes classifier to accurately distinguish between spam and non-spam emails. This approach not only improves the efficiency of email filtering but also contributes to safeguarding users from potential threats associated with unsolicited emails. 
+
 * *Description of the Task* :
 
 This project is a Spam Email Detection System that classifies emails as either spam or ham using Naïve Bayes Classifier. With the increasing use of digital communication, spam emails have become a major concern, often leading to security threats such as phishing attacks and malware distribution. Detecting spam accurately is crucial for both personal and business communication to ensure safe and efficient email usage.
