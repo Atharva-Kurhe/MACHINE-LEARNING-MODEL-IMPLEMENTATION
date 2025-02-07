@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-* *Description of the Task* : This project is a Spam Email Detection System that classifies emails as either spam or ham using Naïve Bayes Classifier. With the increasing use of digital communication, spam emails have become a major concern, often leading to security threats such as phishing attacks and malware distribution. Detecting spam accurately is crucial for both personal and business communication to ensure safe and efficient email usage.
+* *Description of the Task* :
+
+This project is a Spam Email Detection System that classifies emails as either spam or ham using Naïve Bayes Classifier. With the increasing use of digital communication, spam emails have become a major concern, often leading to security threats such as phishing attacks and malware distribution. Detecting spam accurately is crucial for both personal and business communication to ensure safe and efficient email usage.
 
 This project aims to develop a machine learning-based spam detection model using TF-IDF vectorization to transform email text into numerical representations, making it possible for algorithms to analyze and classify them effectively. The Naïve Bayes classifier is used due to its efficiency and effectiveness in text classification tasks. By training on a labeled dataset, the model learns to differentiate between legitimate (ham) and spam emails, providing reliable real-time predictions. Additionally, the project incorporates an interactive user input feature, allowing users to enter email content and get an instant spam classification.
 
