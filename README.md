@@ -74,6 +74,10 @@ The dataset is preprocessed to remove noise and irrelevant characters before fea
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/75a6dd7c-838d-4d65-9057-a0957361de77)
+
+
+
 
 
 
